@@ -1,4 +1,4 @@
-// for
+// for loop
 // shortcut : ctrl + d :: for selecting duplicate values
 for (let i = 0; i <= 10; i++) {
     const element = i;
